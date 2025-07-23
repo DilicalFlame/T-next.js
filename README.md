@@ -6,7 +6,7 @@ NOTE: Don't Forget to update the package name in package.json
 ## How to use
 1. Navigate inside the directory where you want to create your project and run the following command:
 ```bash
-git clone git@github.com:DilicalFlame/T-next,js.git .
+git clone git@github.com:DilicalFlame/T-next.js.git .
 ```
 or
 ```bash
